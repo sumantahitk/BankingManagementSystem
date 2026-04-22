@@ -62,6 +62,3 @@ src/main/java/org/banking/
    * Once running, visit: `http://localhost:8080/swagger-ui.html`
 
 ---
-
-## 📝 License
-Distributed under the MIT License. See `LICENSE` for more information.
